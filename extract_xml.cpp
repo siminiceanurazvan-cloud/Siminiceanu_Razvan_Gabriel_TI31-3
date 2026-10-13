@@ -9,6 +9,7 @@
 #include <chrono>
 #include <iomanip>
 
+// C++17 standard filesystem namespace
 namespace fs = std::filesystem;
 
 enum class ExtractMode {
